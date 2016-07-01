@@ -1,0 +1,35 @@
+How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+By showing only the changes, it was easy to see the bug in the code.  It was wide open!
+_________________________________________________________________________________________________________________________________________________________________________________
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+By showing changes in the long term, you see patterns and can make revisions to previous working code should problems arise as well as plan for future development.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
++:  Easier to see logical changes over time; you contorl when to commit, making version control easier
+-:  Can lose large chunks of work if problems arise; forget to commit changes at all
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Git is for coding with multiple interlinked files in mind, while GDocs is for individual files that may be part of a whole but must be kept seperate.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+How can you use the commands git log and git diff to view the history of files?
+
+These can track the history of a project by showing where and what was changed over time between versions.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+How might using version control make you more confident to make changes that could break something?
+
+You can always revert any changes made without issue, allowing for more bold leaps in code.
+_________________________________________________________________________________________________________________________________________________________________________________
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Manage my code in an easy and efficient way.
+_________________________________________________________________________________________________________________________________________________________________________________
