@@ -6,8 +6,9 @@ How is the staging area different from the working directory and the repository?
 
 The staging area places files to be committed to the repo from the working directory in a storage area to be labeled.  It offers a clean way to update without including everything, potentially confusing and bloating updates. 
 _________________________________________________________________________________________________________________________________________________________________________________
+How can you use the staging area to make sure you have one commit per logical change?
 
-
+It allows you to control and see which changes you will make before committing.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
