@@ -10,8 +10,9 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 It allows you to control and see which changes you will make before committing.
 _________________________________________________________________________________________________________________________________________________________________________________
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-
+Branches allow you to make changes without impacting a working master branch base of code.  These changes can be mreged over time if satisfactory.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
