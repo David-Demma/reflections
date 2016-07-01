@@ -14,8 +14,9 @@ What are some situations when branches would be helpful in keeping your history 
 
 Branches allow you to make changes without impacting a working master branch base of code.  These changes can be mreged over time if satisfactory.
 _________________________________________________________________________________________________________________________________________________________________________________
+How do the diagrams help you visualize the branch structure?
 
-
+They make it easier to see history and division/merger of branches to the master branch.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
