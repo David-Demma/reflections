@@ -18,11 +18,13 @@ How do the diagrams help you visualize the branch structure?
 
 They make it easier to see history and division/merger of branches to the master branch.
 _________________________________________________________________________________________________________________________________________________________________________________
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
-
+It combines all changes into one new branch and makes for easier visualization of branch history.
 _________________________________________________________________________________________________________________________________________________________________________________
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 
-
+Automatic saves work and can help if you forget.  However, manual makes for more fine-tuned changes.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
