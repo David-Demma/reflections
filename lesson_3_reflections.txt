@@ -10,9 +10,9 @@ Describe the differences between forks, clones, and branches. When would you use
 
 A fork is a GH clone of a repo already on GH.  A clone is a copy on your local WD (technically also on your GH station).  A branch is a change in the code not necc the master.  Fork repos, clone to modify (usually), and branch to isolate changes from the master.
 _________________________________________________________________________________________________________________________________________________________________________________
+What is the benefit of having a copy of the last known state of the remote stored locally?
 
-
-
+So you can see and make changes to the most recent repo w/o internet.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
