@@ -18,9 +18,9 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 Using G-Docs/Drive, it would be more difficult to track changes and features over time.  Nothing would be easier besides barrier to entry.
 _________________________________________________________________________________________________________________________________________________________________________________
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-
-
+In order to try a feature without corrupting the master/bugs.  If done to master, mostly fix issues.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
