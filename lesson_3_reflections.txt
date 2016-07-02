@@ -6,9 +6,9 @@ Why might you want to always pull changes manually rather than having Git automa
 
 Bugs might be introduced as well as making unwanted changes to your branch.
 _________________________________________________________________________________________________________________________________________________________________________________
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
 
-
-
+A fork is a GH clone of a repo already on GH.  A clone is a copy on your local WD (technically also on your GH station).  A branch is a change in the code not necc the master.  Fork repos, clone to modify (usually), and branch to isolate changes from the master.
 _________________________________________________________________________________________________________________________________________________________________________________
 
 
